@@ -65,9 +65,7 @@ To execute the code, follow these steps:
 
 **Conclusion**: The model's performance after fine-tuning shows a slight improvement in accuracy, especially for small objects in our dataset.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
