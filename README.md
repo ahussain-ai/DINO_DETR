@@ -62,6 +62,10 @@ To execute the code, follow these steps:
   - Small: **0.466** (improvement from 0.402)
   - Medium: **0.688** (improvement from 0.637)
   - Large: **0.874** (up from 0.849)
+ 
+
+
+  **Fine-tuned weight can be found here : https://drive.google.com/file/d/1HENNmF5MpTD6pD5BQ6dWS5S1SHQHOC0q/view?usp=drive_link
 
 **Conclusion**: The model's performance after fine-tuning shows a slight improvement in accuracy, especially for small objects in our dataset.
 
